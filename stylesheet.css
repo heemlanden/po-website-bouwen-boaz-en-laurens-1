@@ -1,24 +1,23 @@
 body {
-    background-color: red;
-    font-family: Arial, sans-serif;
-    color: blue;
+    background-color:darkslategray;
+    color: whitesmoke;
+    
 }
 
-header {
-    background-color: yellow;
-    padding: 12px;
-    text-align: center;
-    border-radius: 15px;
-    margin: 20px;
+table {color:black}
+
+
+td {
+    border: solid cornflowerblue;
+    
 }
 
-section {
-    background-color: yellow;
-    padding: 12px;
-    margin: 20px;
-    border-radius: 15px;
+
+h1, h2, h3 {
+    color: whitesmoke;
 }
+
 
 a {
-    color: blue;
+    color: whitesmoke;
 }
